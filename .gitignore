@@ -11,5 +11,9 @@ ehthumbs.db
 # Java
 target/
 
+# Python
+.venv
+venv/
+
 # Misc
 *.log
